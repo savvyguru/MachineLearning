@@ -6,4 +6,5 @@ This is a personal archive of ML notes. I hope to facilitate and reinforce my le
 3. Logistic Regression (binary classification)
 4. K-nearest Neighbor
 5. Support Vector Machine
+6. Random Forest
 
