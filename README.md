@@ -13,7 +13,6 @@ This is a personal archive of ML notes. I hope to facilitate and reinforce my le
 
 ## Computer Vision Notes
 * Resnet
-
 * maskRCNN
 * YOLOv4
 
