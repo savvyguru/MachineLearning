@@ -9,4 +9,4 @@ This is a personal archive of ML notes. I hope to facilitate and reinforce my le
 6. Random Forest
 
 ## Deep Learning Notes
-* [Autoencoder](https://github.com/savvyguru/MachineLearning/edit/master/autoencoder.md)
+* [Autoencoder](https://github.com/savvyguru/MachineLearning/blob/master/autoencoder.md)
