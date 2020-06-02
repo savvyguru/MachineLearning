@@ -10,3 +10,10 @@ This is a personal archive of ML notes. I hope to facilitate and reinforce my le
 
 ## Deep Learning Notes
 * [Autoencoder](https://github.com/savvyguru/MachineLearning/blob/master/autoencoder.md)
+
+## Computer Vision Notes
+* Resnet
+
+* maskRCNN
+* YOLOv4
+
