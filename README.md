@@ -1,4 +1,4 @@
-# Machine Learning models in sklearn
+## Machine Learning models in sklearn
 This is a personal archive of ML notes. I hope to facilitate and reinforce my learning process through rigourous documentation and having some sense of ownership of my learning.
 
 1. Linear Regression (multivariable)
@@ -8,3 +8,5 @@ This is a personal archive of ML notes. I hope to facilitate and reinforce my le
 5. Support Vector Machine
 6. Random Forest
 
+## Deep Learning Notes
+** [Autoencoder](https://github.com/savvyguru/MachineLearning/edit/master/autoencoder.md)
